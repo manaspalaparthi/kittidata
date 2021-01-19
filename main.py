@@ -5,7 +5,7 @@ from pypardiso import spsolve
 from PIL import Image
 import matplotlib.pyplot as plt
 
-import random
+import rando
 #
 # fill_depth_colorization.m
 # Preprocesses the kinect depth image using a gray scale version of the
